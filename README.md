@@ -2,7 +2,7 @@
 
 Using [this website](https://goo.gl/j1Oril) to make these files.                                                                 
 [Here](https://goo.gl/QS6FHO) is the python reference to sqlite3.
-                                                                                                                                
+
 #
 
 ###Creating a new database in terminal
@@ -23,6 +23,13 @@ $ ls
 test.db
 ~~~~
 
+
+
+
+
+
+
+
+
+
 The .tables command gives a list of tables in the test.db database. There are currently no tables. The .exit command terminates the interactive session of the sqlite3 command line tool.
-
-
